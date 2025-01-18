@@ -29,5 +29,6 @@ print(f"El resultado de {uno} {op} {dos} es {res}")
 #Hola como vas, hace tiempo no se de ti
 
 #MARCOS ERES GEI
+# si, soy gei
 
 
