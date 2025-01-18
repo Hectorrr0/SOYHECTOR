@@ -25,4 +25,6 @@ else:
 
 print(f"El resultado de {uno} {op} {dos} es {res}")
 
+#GREAT
+
 
